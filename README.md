@@ -647,7 +647,7 @@ Possible v2 improvements include:
 
 # 👨‍💻 Author
 
-**Abhi**
+**Abhishek**
 
 MemoryVault AI was built as a hands-on journey through:
 
