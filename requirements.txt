@@ -1,0 +1,34 @@
+# User interface
+streamlit
+
+# Environment variables
+python-dotenv
+
+# PDF processing
+pypdf
+
+# Text embeddings and vector search
+sentence-transformers
+faiss-cpu
+numpy
+
+# Gemini API
+google-genai
+
+# Audio transcription
+faster-whisper
+
+# Image OCR
+easyocr
+Pillow
+
+# Agents — used in a later phase
+langgraph
+
+# API and deployment — used in a later phase
+fastapi
+uvicorn[standard]
+python-multipart
+
+# Testing
+pytest

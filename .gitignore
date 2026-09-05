@@ -1,0 +1,65 @@
+# ==============================
+# Python
+# ==============================
+
+__pycache__/
+*.py[cod]
+*$py.class
+
+# ==============================
+# Virtual Environment
+# ==============================
+
+.venv/
+venv/
+env/
+
+# ==============================
+# Environment Variables / Secrets
+# ==============================
+
+.env
+.env.*
+!.env.example
+
+# ==============================
+# Streamlit
+# ==============================
+
+.streamlit/secrets.toml
+
+# ==============================
+# Local Application Data
+# ==============================
+
+data/uploads/*
+!data/uploads/.gitkeep
+
+data/vectorstore/*
+!data/vectorstore/.gitkeep
+
+data/sqlite/*
+!data/sqlite/.gitkeep
+
+data/database/*
+!data/database/.gitkeep
+
+# ==============================
+# IDE
+# ==============================
+
+.vscode/
+.idea/
+
+# ==============================
+# OS
+# ==============================
+
+.DS_Store
+Thumbs.db
+
+# ==============================
+# Logs
+# ==============================
+
+*.log
