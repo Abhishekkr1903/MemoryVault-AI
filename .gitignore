@@ -63,3 +63,10 @@ Thumbs.db
 # ==============================
 
 *.log
+
+# ==============================
+# Local Test / Debug Scripts
+# ==============================
+
+check_venv_sentence_transformers.py
+test_*.py
