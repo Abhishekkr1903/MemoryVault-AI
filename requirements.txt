@@ -7,6 +7,8 @@ python-dotenv
 # PDF processing
 pypdf
 
+rank-bm25
+
 # Text embeddings and vector search
 sentence-transformers
 faiss-cpu
